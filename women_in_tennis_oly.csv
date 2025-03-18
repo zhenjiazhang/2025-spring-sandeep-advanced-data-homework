@@ -1,0 +1,786 @@
+ID,Athlete Name,Sex,Age,Height,Weight,Team,NOC,Year,City,Sport,Event,Medal,Season
+4723,Sabine Appelmans (-Haubourdin),F,24.0,169.0,60.0,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+4723,Sabine Appelmans (-Haubourdin),F,24.0,169.0,60.0,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+7620,Olga Vladimirovna Barabanshchikova,F,16.0,176.0,60.0,Belarus,BLR,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+7620,Olga Vladimirovna Barabanshchikova,F,16.0,176.0,60.0,Belarus,BLR,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+8522,"Nani Rahayu ""Yayuk"" Basuki-Suharyadi",F,25.0,165.0,55.0,Indonesia,INA,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+8522,"Nani Rahayu ""Yayuk"" Basuki-Suharyadi",F,25.0,165.0,55.0,Indonesia,INA,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+12991,Manon Maria Bollegraf,F,32.0,173.0,64.0,Netherlands,NED,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+17151,Paula Andrea Cabezas S.,F,23.0,,,Chile,CHI,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+18987,Brbara Castro Daz,F,20.0,,,Chile,CHI,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+20232,Chen Li,F,25.0,165.0,60.0,China,CHN,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+20232,Chen Li,F,25.0,165.0,60.0,China,CHN,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+21081,Choi Yeong-Ja,F,21.0,170.0,62.0,South Korea,KOR,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+22231,Amanda Coetzer,F,24.0,157.0,53.0,South Africa,RSA,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+22231,Amanda Coetzer,F,24.0,157.0,53.0,South Africa,RSA,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+23487,Laurence Courtois (-Crols),F,25.0,172.0,61.0,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+23487,Laurence Courtois (-Crols),F,25.0,172.0,61.0,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+23827,Ctlina Cristea,F,21.0,173.0,56.0,Romania,ROU,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+24144,Virg Csurg (-Tamas),F,23.0,172.0,63.0,Hungary,HUN,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+24144,Virg Csurg (-Tamas),F,23.0,172.0,63.0,Hungary,HUN,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+24583,Miriam D'Agostini,F,17.0,164.0,56.0,Brazil,BRA,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+25480,Kimiko Date (-Krumm),F,25.0,164.0,52.0,Japan,JPN,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+25544,Lindsay Ann Davenport,F,20.0,191.0,79.0,United States,USA,1996,Atlanta,Tennis,Tennis Women's Singles,Gold,summer
+26708,Mariaan de Swardt,F,25.0,177.0,77.0,South Africa,RSA,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+26708,Mariaan de Swardt,F,25.0,177.0,77.0,South Africa,RSA,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+29884,Ruxandra Maria Dragomir (-Ilie),F,23.0,170.0,58.0,Romania,ROU,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+34066,Silvia Farina-Elia,F,24.0,171.0,62.0,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+34066,Silvia Farina-Elia,F,24.0,171.0,62.0,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+34819,"Beatriz Cristina ""Gigi"" Fernandez",F,32.0,170.0,66.0,United States,USA,1996,Atlanta,Tennis,Tennis Women's Doubles,Gold,summer
+34864,"Maria Jose ""Mary Joe"" Fernandez (-Godsick)",F,24.0,176.0,63.0,United States,USA,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+34864,"Maria Jose ""Mary Joe"" Fernandez (-Godsick)",F,24.0,176.0,63.0,United States,USA,1996,Atlanta,Tennis,Tennis Women's Doubles,Gold,summer
+39133,Anglica Gavaldn Loaiza (-Verdieck),F,22.0,160.0,54.0,Mexico,MEX,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+41096,Laura Golarsa,F,28.0,165.0,56.0,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+41908,Ins Gorrochategui,F,23.0,169.0,58.0,Argentina,ARG,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+42361,Rita Grande,F,21.0,176.0,68.0,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+43384,Magdalena Maria Grzybowska,F,17.0,184.0,66.0,Poland,POL,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+43384,Magdalena Maria Grzybowska,F,17.0,184.0,66.0,Poland,POL,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+44540,Karina Habudov (-Clekov),F,22.0,170.0,60.0,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+44540,Karina Habudov (-Clekov),F,22.0,170.0,60.0,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+48292,"Gilliam ""Jill"" Hetherington (-Hultquist)",F,31.0,178.0,68.0,Canada,CAN,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+48700,Martina Hingis (-Hutin),F,15.0,170.0,59.0,Switzerland,SUI,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+48700,Martina Hingis (-Hutin),F,15.0,170.0,59.0,Switzerland,SUI,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+50696,Anke Huber,F,22.0,173.0,58.0,Germany,GER,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+51405,Patricia Hy-Boulais,F,30.0,163.0,58.0,Canada,CAN,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+51405,Patricia Hy-Boulais,F,30.0,163.0,58.0,Canada,CAN,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+59855,Kim Eun-Ha,F,21.0,173.0,62.0,South Korea,KOR,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+63301,Anna Sergeyevna Kournikova,F,15.0,173.0,56.0,Russia,RUS,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+63301,Anna Sergeyevna Kournikova,F,15.0,173.0,56.0,Russia,RUS,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+63965,Anne Kremer,F,20.0,165.0,55.0,Luxembourg,LUX,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+64331,Joannette Kruger,F,22.0,179.0,59.0,South Africa,RSA,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+65643,Mara Florencia Labat,F,25.0,170.0,64.0,Argentina,ARG,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+66039,Valda Lake,F,27.0,173.0,61.0,Great Britain,GBR,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+69843,Yelena Aleksandrovna Likhovtseva,F,20.0,174.0,60.0,Russia,RUS,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+73769,Iva Majoli (-Mari),F,18.0,176.0,60.0,Croatia,CRO,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+73769,Iva Majoli (-Mari),F,18.0,176.0,60.0,Croatia,CRO,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+73824,Yelena Alekseyevna Makarova,F,23.0,179.0,65.0,Russia,RUS,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+73824,Yelena Alekseyevna Makarova,F,23.0,179.0,65.0,Russia,RUS,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+74011,Katerina Georgieva Maleeva (-Stoimenova),F,27.0,167.0,55.0,Bulgaria,BUL,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+74012,"Magdalena Georgieva ""Maggy"" Maleeva",F,21.0,168.0,59.0,Bulgaria,BUL,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+74012,"Magdalena Georgieva ""Maggy"" Maleeva",F,21.0,168.0,59.0,Bulgaria,BUL,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+75706,Conchita Martnez Bernat,F,24.0,170.0,59.0,Spain,ESP,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+75706,Conchita Martnez Bernat,F,24.0,170.0,59.0,Spain,ESP,1996,Atlanta,Tennis,Tennis Women's Doubles,Bronze,summer
+77952,Rachel Jane McQuillan,F,24.0,174.0,61.0,Australia,AUS,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+78720,Vanessa Atra de Menga,F,19.0,175.0,60.0,Brazil,BRA,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+83483,Maja Muri,F,22.0,,,Croatia,CRO,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+84109,Kyoko Nagatsuka,F,22.0,166.0,57.0,Japan,JPN,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+85147,Jana Nejedly,F,22.0,175.0,65.0,Canada,CAN,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+87175,Jana Novotn,F,27.0,175.0,63.0,Czech Republic,CZE,1996,Atlanta,Tennis,Tennis Women's Singles,Bronze,summer
+87175,Jana Novotn,F,27.0,175.0,63.0,Czech Republic,CZE,1996,Atlanta,Tennis,Tennis Women's Doubles,Silver,summer
+88994,Aleksandra Olsza,F,18.0,165.0,56.0,Poland,POL,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+88994,Aleksandra Olsza,F,18.0,165.0,56.0,Poland,POL,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+91183,Khristina Papadaki,F,23.0,173.0,55.0,Greece,GRE,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+91183,Khristina Papadaki,F,23.0,173.0,55.0,Greece,GRE,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+91594,Park Seong-Hui,F,21.0,165.0,53.0,South Korea,KOR,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+91594,Park Seong-Hui,F,21.0,165.0,53.0,South Korea,KOR,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+94698,Mary Caroline Pierce,F,21.0,180.0,64.0,France,FRA,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+94698,Mary Caroline Pierce,F,21.0,180.0,64.0,France,FRA,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+97255,Nicole Anne Louise Provis-Bradtke,F,26.0,176.0,61.0,Australia,AUS,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+98846,Dally Randriantefy,F,19.0,165.0,55.0,Madagascar,MAD,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+98846,Dally Randriantefy,F,19.0,165.0,55.0,Madagascar,MAD,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+98847,Natacha Randriantefy,F,18.0,173.0,52.0,Madagascar,MAD,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+103163,"Virginia ""Vivi"" Ruano Pascual",F,22.0,164.0,60.0,Spain,ESP,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+104019,Gabriela Beatriz Sabatini,F,26.0,175.0,64.0,Argentina,ARG,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+104019,Gabriela Beatriz Sabatini,F,26.0,175.0,64.0,Argentina,ARG,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+105256,"Arnzazu Isabel Mara ""Arantxa"" Snchez Vicario",F,24.0,169.0,56.0,Spain,ESP,1996,Atlanta,Tennis,Tennis Women's Singles,Silver,summer
+105256,"Arnzazu Isabel Mara ""Arantxa"" Snchez Vicario",F,24.0,169.0,56.0,Spain,ESP,1996,Atlanta,Tennis,Tennis Women's Doubles,Bronze,summer
+105446,Benjamas Sangaram,F,21.0,164.0,52.0,Thailand,THA,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+106332,Naoko Sawamatsu,F,23.0,167.0,58.0,Japan,JPN,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+106517,Jolle Schad,F,23.0,,,Dominican Republic,DOM,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+107328,Patty Schnyder (-Hofmann),F,17.0,168.0,56.0,Switzerland,SUI,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+107328,Patty Schnyder (-Hofmann),F,17.0,168.0,56.0,Switzerland,SUI,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+107674,Brenda Anne Marie Schultz-McCarthy,F,25.0,189.0,77.0,Netherlands,NED,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+107674,Brenda Anne Marie Schultz-McCarthy,F,25.0,189.0,77.0,Netherlands,NED,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+108441,Monica Seles,F,22.0,179.0,70.0,United States,USA,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+108869,Adriana Serra-Zanetti,F,20.0,160.0,58.0,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+109043,Selima Sfar,F,19.0,166.0,55.0,Tunisia,TUN,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+115937,Rennae Stubbs,F,25.0,178.0,65.0,Australia,AUS,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+115957,Katarna Studenkov,F,23.0,172.0,63.0,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+116233,Ai Sugiyama,F,21.0,161.0,56.0,Japan,JPN,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+116233,Ai Sugiyama,F,21.0,161.0,56.0,Japan,JPN,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+116313,Helena Sukov,F,31.0,188.0,68.0,Czech Republic,CZE,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+116313,Helena Sukov,F,31.0,188.0,68.0,Czech Republic,CZE,1996,Atlanta,Tennis,Tennis Women's Doubles,Silver,summer
+118375,Tamarine Tanasugarn,F,19.0,165.0,60.0,Thailand,THA,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+118556,Patricia Anahi Tarabini,F,27.0,169.0,60.0,Argentina,ARG,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+118787,Nathalie Tauziat,F,28.0,165.0,54.0,France,FRA,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+118787,Nathalie Tauziat,F,28.0,165.0,54.0,France,FRA,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+119011,Romana Tedjakusuma,F,19.0,,,Indonesia,INA,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+119126,"Andrea Temesvri (-Trunkos, -Visontai)",F,30.0,180.0,64.0,Hungary,HUN,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+119126,"Andrea Temesvri (-Trunkos, -Visontai)",F,30.0,180.0,64.0,Hungary,HUN,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+124877,Dominique Van Roost (Monami-),F,23.0,171.0,56.0,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+128555,Wang Shi-Ting,F,22.0,170.0,57.0,Chinese Taipei,TPE,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+130290,"Judith Wiesner (Plzl-, -Floimair)",F,30.0,170.0,65.0,Austria,AUT,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+131464,Clare Jacqueline Wood,F,28.0,175.0,65.0,Great Britain,GBR,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+131464,Clare Jacqueline Wood,F,28.0,175.0,65.0,Great Britain,GBR,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+132954,Yi Jingqian,F,22.0,168.0,60.0,China,CHN,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+132954,Yi Jingqian,F,22.0,168.0,60.0,China,CHN,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+133766,Khristina Zakhariadou,F,21.0,163.0,57.0,Greece,GRE,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+135298,"Radomra ""Radka"" Zrubkov",F,25.0,169.0,60.0,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+135298,"Radomra ""Radka"" Zrubkov",F,25.0,169.0,60.0,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+135502,"Nataliya Maratovna ""Natasha"" Zvereva",F,25.0,172.0,60.0,Belarus,BLR,1996,Atlanta,Tennis,Tennis Women's Singles,,summer
+135502,"Nataliya Maratovna ""Natasha"" Zvereva",F,25.0,172.0,60.0,Belarus,BLR,1996,Atlanta,Tennis,Tennis Women's Doubles,,summer
+4723,Sabine Appelmans (-Haubourdin),F,28.0,169.0,60.0,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+5455,Shinobu Asagoe,F,24.0,168.0,58.0,Japan,JPN,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+7620,Olga Vladimirovna Barabanshchikova,F,20.0,176.0,60.0,Belarus,BLR,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+7620,Olga Vladimirovna Barabanshchikova,F,20.0,176.0,60.0,Belarus,BLR,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+8522,"Nani Rahayu ""Yayuk"" Basuki-Suharyadi",F,29.0,165.0,55.0,Indonesia,INA,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+9273,"Daniela ""Dja"" Bedov",F,17.0,171.0,52.0,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+9273,"Daniela ""Dja"" Bedov",F,17.0,171.0,52.0,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+11973,Cara Cavell Black (-Stephens),F,21.0,167.0,55.0,Zimbabwe,ZIM,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+13317,Kristie Boogert,F,26.0,178.0,63.0,Netherlands,NED,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+13317,Kristie Boogert,F,26.0,178.0,63.0,Netherlands,NED,2000,Sydney,Tennis,Tennis Women's Doubles,Silver,summer
+17479,Els Callens,F,30.0,177.0,58.0,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+17479,Els Callens,F,30.0,177.0,58.0,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Doubles,Bronze,summer
+22231,Amanda Coetzer,F,28.0,157.0,53.0,South Africa,RSA,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+22231,Amanda Coetzer,F,28.0,157.0,53.0,South Africa,RSA,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+23219,Joana Amorim Cortez dos Santos,F,21.0,170.0,62.0,Brazil,BRA,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+25246,Eleni Daniilidou,F,17.0,183.0,72.0,Greece,GRE,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+25544,Lindsay Ann Davenport,F,24.0,191.0,79.0,United States,USA,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+26386,Rossana Mara Neffa de los Ros,F,24.0,160.0,53.0,Paraguay,PAR,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+26910,Nathalie Dechy,F,21.0,177.0,59.0,France,FRA,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+27457,Yelena Vyacheslavovna Dementyeva (-Afinogenova),F,18.0,180.0,64.0,Russia,RUS,2000,Sydney,Tennis,Tennis Women's Singles,Silver,summer
+29135,Jelena Dokic,F,17.0,175.0,57.0,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+29135,Jelena Dokic,F,17.0,175.0,57.0,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+29884,Ruxandra Maria Dragomir (-Ilie),F,27.0,170.0,58.0,Romania,ROU,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+33367,Neyssa tienne,F,17.0,150.0,60.0,Haiti,HAI,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+34066,Silvia Farina-Elia,F,28.0,171.0,62.0,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+34066,Silvia Farina-Elia,F,28.0,171.0,62.0,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+37884,Emmanuelle Gagliardi,F,24.0,171.0,60.0,Switzerland,SUI,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+37884,Emmanuelle Gagliardi,F,24.0,171.0,60.0,Switzerland,SUI,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+38478,Tathiana Garbin,F,23.0,175.0,65.0,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+39821,Adriana Geri,F,24.0,168.0,52.0,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+42361,Rita Grande,F,25.0,176.0,68.0,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+42361,Rita Grande,F,25.0,176.0,68.0,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+44540,Karina Habudov (-Clekov),F,27.0,170.0,60.0,Slovakia,SVK,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+44540,Karina Habudov (-Clekov),F,27.0,170.0,60.0,Slovakia,SVK,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+44924,Julie Halard-Dcugis,F,30.0,171.0,57.0,France,FRA,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+44924,Julie Halard-Dcugis,F,30.0,171.0,57.0,France,FRA,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+49861,Amanda Maria Cornelia Hopmans,F,24.0,167.0,57.0,Netherlands,NED,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+49967,Liezel Horn-Huber,F,24.0,178.0,72.0,South Africa,RSA,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+50463,Kvtoslava Hrdlikov (-Peschke),F,25.0,165.0,60.0,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+50463,Kvtoslava Hrdlikov (-Peschke),F,25.0,165.0,60.0,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+51184,Janette Husrov,F,26.0,168.0,55.0,Slovakia,SVK,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+54714,Sonya Jeyaseelan,F,24.0,154.0,54.0,Canada,CAN,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+54714,Sonya Jeyaseelan,F,24.0,154.0,54.0,Canada,CAN,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+55013,Jo Yun-Jeong,F,21.0,167.0,55.0,South Korea,KOR,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+57169,Jana Kandarr,F,23.0,180.0,68.0,Germany,GER,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+63965,Anne Kremer,F,24.0,165.0,55.0,Luxembourg,LUX,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+64175,Tina Krian,F,26.0,174.0,67.0,Slovenia,SLO,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+65280,Rita Kuti Kis,F,22.0,175.0,66.0,Hungary,HUN,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+65643,Mara Florencia Labat,F,29.0,170.0,64.0,Argentina,ARG,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+67986,Janet Lee,F,23.0,175.0,60.0,Chinese Taipei,TPE,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+69454,Li Na,F,18.0,172.0,67.0,China,CHN,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+69454,Li Na,F,18.0,172.0,67.0,China,CHN,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+69498,Li Ting,F,20.0,180.0,72.0,China,CHN,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+69843,Yelena Aleksandrovna Likhovtseva,F,25.0,174.0,60.0,Russia,RUS,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+69843,Yelena Aleksandrovna Likhovtseva,F,25.0,174.0,60.0,Russia,RUS,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+73769,Iva Majoli (-Mari),F,23.0,176.0,60.0,Croatia,CRO,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+73769,Iva Majoli (-Mari),F,23.0,176.0,60.0,Croatia,CRO,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+74052,Manisha Malhotra,F,23.0,,,India,IND,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+74368,Petra Mandula,F,22.0,179.0,66.0,Hungary,HUN,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+74368,Petra Mandula,F,22.0,179.0,66.0,Hungary,HUN,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+75272,Katalin Marosi-Aracama,F,20.0,178.0,64.0,Hungary,HUN,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+75272,Katalin Marosi-Aracama,F,20.0,178.0,64.0,Hungary,HUN,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+75706,Conchita Martnez Bernat,F,28.0,170.0,59.0,Spain,ESP,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+75706,Conchita Martnez Bernat,F,28.0,170.0,59.0,Spain,ESP,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+76840,Amlie Simone Mauresmo,F,21.0,175.0,69.0,France,FRA,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+76840,Amlie Simone Mauresmo,F,21.0,175.0,69.0,France,FRA,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+78720,Vanessa Atra de Menga,F,23.0,175.0,60.0,Brazil,BRA,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+79005,Mariana Mesa Pineda,F,20.0,166.0,62.0,Colombia,COL,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+80555,Nana Miyagi (-Rogers),F,29.0,164.0,52.0,Japan,JPN,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+81119,Alicia Molik,F,19.0,182.0,78.0,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+81439,Laura Montalvo,F,24.0,173.0,70.0,Argentina,ARG,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+83941,Anastasiya Andreyevna Myskina,F,19.0,176.0,59.0,Russia,RUS,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+83941,Anastasiya Andreyevna Myskina,F,19.0,176.0,59.0,Russia,RUS,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+84203,Henrieta Nagyov,F,21.0,177.0,60.0,Slovakia,SVK,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+89405,"Maria Johanna Martina ""Miriam"" Oremans (-Vermeer)",F,28.0,169.0,65.0,Netherlands,NED,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+89405,"Maria Johanna Martina ""Miriam"" Oremans (-Vermeer)",F,28.0,169.0,65.0,Netherlands,NED,2000,Sydney,Tennis,Tennis Women's Doubles,Silver,summer
+91594,Park Seong-Hui,F,25.0,165.0,53.0,South Korea,KOR,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+95200,Tina Pisnik,F,19.0,172.0,65.0,Slovenia,SLO,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+95478,Sylvia Plischke,F,23.0,177.0,65.0,Austria,AUT,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+96732,Wynne Prakusya,F,19.0,162.0,55.0,Indonesia,INA,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+96732,Wynne Prakusya,F,19.0,162.0,55.0,Indonesia,INA,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+96781,Nicole Pratt,F,27.0,163.0,54.0,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+97515,Julie Pullin,F,24.0,173.0,65.0,Great Britain,GBR,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+104714,Mara Emilia Salerni,F,17.0,173.0,60.0,Argentina,ARG,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+105256,"Arnzazu Isabel Mara ""Arantxa"" Snchez Vicario",F,28.0,169.0,56.0,Spain,ESP,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+105256,"Arnzazu Isabel Mara ""Arantxa"" Snchez Vicario",F,28.0,169.0,56.0,Spain,ESP,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+105446,Benjamas Sangaram,F,25.0,164.0,52.0,Thailand,THA,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+106791,Barbara Schett (-Eagle),F,24.0,176.0,70.0,Austria,AUT,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+106791,Barbara Schett (-Eagle),F,24.0,176.0,70.0,Austria,AUT,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+108441,Monica Seles,F,26.0,179.0,70.0,United States,USA,2000,Sydney,Tennis,Tennis Women's Singles,Bronze,summer
+108759,Milagros Sequera (-Huss),F,19.0,170.0,58.0,Venezuela,VEN,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+108845,"Mara Luisa ""Magui"" Serna Barrera",F,21.0,167.0,65.0,Spain,ESP,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+114035,Katarina Srebotnik,F,19.0,180.0,62.0,Slovenia,SLO,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+114035,Katarina Srebotnik,F,19.0,180.0,62.0,Slovenia,SLO,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+115937,Rennae Stubbs,F,29.0,178.0,65.0,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+116112,Paola Lorena Surez,F,24.0,170.0,64.0,Argentina,ARG,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+116112,Paola Lorena Surez,F,24.0,170.0,64.0,Argentina,ARG,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+116233,Ai Sugiyama,F,25.0,161.0,56.0,Japan,JPN,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+116233,Ai Sugiyama,F,25.0,161.0,56.0,Japan,JPN,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+118073,Silvija Talaja,F,22.0,173.0,58.0,Croatia,CRO,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+118073,Silvija Talaja,F,22.0,173.0,58.0,Croatia,CRO,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+118375,Tamarine Tanasugarn,F,23.0,165.0,60.0,Thailand,THA,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+118375,Tamarine Tanasugarn,F,23.0,165.0,60.0,Thailand,THA,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+118727,Olena Valeriyvna Tatarkova (-Feltham),F,24.0,174.0,52.0,Ukraine,UKR,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+122587,Iroda Tulyaganova,F,18.0,172.0,63.0,Uzbekistan,UZB,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+123786,Nirupama Vaidyanathan (-Sanjeev),F,25.0,170.0,62.0,India,IND,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+124877,Dominique Van Roost (Monami-),F,27.0,171.0,56.0,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+124877,Dominique Van Roost (Monami-),F,27.0,171.0,56.0,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Doubles,Bronze,summer
+125549,"Miroslava ""Mirka"" Vavrinec (-Federer)",F,22.0,175.0,62.0,Switzerland,SUI,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+125549,"Miroslava ""Mirka"" Vavrinec (-Federer)",F,22.0,175.0,62.0,Switzerland,SUI,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+125872,Mara Alejandra Vento-Kabchi,F,26.0,168.0,64.0,Venezuela,VEN,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+125872,Mara Alejandra Vento-Kabchi,F,26.0,168.0,64.0,Venezuela,VEN,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+128819,Patricia Wartusch,F,22.0,176.0,67.0,Austria,AUT,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+128819,Patricia Wartusch,F,22.0,176.0,67.0,Austria,AUT,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+129099,Vanessa Webb,F,24.0,180.0,75.0,Canada,CAN,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+129622,Weng Tzu-Ting,F,22.0,173.0,67.0,Chinese Taipei,TPE,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+130667,Serena Jamika Williams,F,18.0,175.0,70.0,United States,USA,2000,Sydney,Tennis,Tennis Women's Doubles,Gold,summer
+130696,Venus Ebony Starr Williams,F,20.0,185.0,75.0,United States,USA,2000,Sydney,Tennis,Tennis Women's Singles,Gold,summer
+130696,Venus Ebony Starr Williams,F,20.0,185.0,75.0,United States,USA,2000,Sydney,Tennis,Tennis Women's Doubles,Gold,summer
+131529,Lorna Woodroffe,F,24.0,168.0,67.0,Great Britain,GBR,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+132954,Yi Jingqian,F,26.0,168.0,60.0,China,CHN,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+133989,Anna Oleksandrivna Zaporozhanova,F,21.0,174.0,53.0,Ukraine,UKR,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+135417,Fabiola Zuluaga Amado,F,21.0,171.0,65.0,Colombia,COL,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+135417,Fabiola Zuluaga Amado,F,21.0,171.0,65.0,Colombia,COL,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+135502,"Nataliya Maratovna ""Natasha"" Zvereva",F,29.0,172.0,60.0,Belarus,BLR,2000,Sydney,Tennis,Tennis Women's Singles,,summer
+135502,"Nataliya Maratovna ""Natasha"" Zvereva",F,29.0,172.0,60.0,Belarus,BLR,2000,Sydney,Tennis,Tennis Women's Doubles,,summer
+4363,Maret Ani,F,22.0,175.0,64.0,Estonia,EST,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+5455,Shinobu Asagoe,F,28.0,168.0,58.0,Japan,JPN,2004,Athina,Tennis,Tennis Women's Singles,,summer
+5455,Shinobu Asagoe,F,28.0,168.0,58.0,Japan-2,JPN,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+9446,Yuliya Emanulivna Beihelzimer,F,20.0,174.0,62.0,Ukraine,UKR,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+10042,Iveta Beneov (-Melzer),F,21.0,170.0,56.0,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Singles,,summer
+11973,Cara Cavell Black (-Stephens),F,25.0,167.0,55.0,Zimbabwe,ZIM,2004,Athina,Tennis,Tennis Women's Singles,,summer
+14641,Kristina Marie Brandi,F,27.0,170.0,59.0,Puerto Rico,PUR,2004,Athina,Tennis,Tennis Women's Singles,,summer
+17614,Maria Elena Camerin,F,22.0,165.0,56.0,Italy,ITA,2004,Athina,Tennis,Tennis Women's Singles,,summer
+18749,Myriam Casanova,F,19.0,172.0,70.0,Switzerland,SUI,2004,Athina,Tennis,Tennis Women's Singles,,summer
+18749,Myriam Casanova,F,19.0,172.0,70.0,Switzerland,SUI,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+18883,Catalina Castao Alvarez,F,25.0,,,Colombia,COL,2004,Athina,Tennis,Tennis Women's Singles,,summer
+18883,Catalina Castao Alvarez,F,25.0,,,Colombia,COL,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+24568,Melinda Czink,F,21.0,178.0,62.0,Hungary,HUN,2004,Athina,Tennis,Tennis Women's Singles,,summer
+24568,Melinda Czink,F,21.0,178.0,62.0,Hungary-1,HUN,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+25246,Eleni Daniilidou,F,21.0,183.0,72.0,Greece,GRE,2004,Athina,Tennis,Tennis Women's Singles,,summer
+25246,Eleni Daniilidou,F,21.0,183.0,72.0,Greece,GRE,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+26910,Nathalie Dechy,F,25.0,177.0,59.0,France,FRA,2004,Athina,Tennis,Tennis Women's Singles,,summer
+26910,Nathalie Dechy,F,25.0,177.0,59.0,France-1,FRA,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+27457,Yelena Vyacheslavovna Dementyeva (-Afinogenova),F,22.0,180.0,64.0,Russia,RUS,2004,Athina,Tennis,Tennis Women's Singles,,summer
+27457,Yelena Vyacheslavovna Dementyeva (-Afinogenova),F,22.0,180.0,64.0,Russia-2,RUS,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+28281,Mariana Daz Oliva,F,28.0,172.0,64.0,Argentina,ARG,2004,Athina,Tennis,Tennis Women's Singles,,summer
+30540,Gisela Alejandra Dulko (-Gago),F,19.0,170.0,56.0,Argentina,ARG,2004,Athina,Tennis,Tennis Women's Singles,,summer
+34066,Silvia Farina-Elia,F,32.0,171.0,62.0,Italy,ITA,2004,Athina,Tennis,Tennis Women's Singles,,summer
+34066,Silvia Farina-Elia,F,32.0,171.0,62.0,Italy-1,ITA,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+38478,Tathiana Garbin,F,27.0,175.0,65.0,Italy,ITA,2004,Athina,Tennis,Tennis Women's Singles,,summer
+38478,Tathiana Garbin,F,27.0,175.0,65.0,Italy-2,ITA,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+45862,Daniela Hantuchov,F,21.0,181.0,62.0,Slovakia,SVK,2004,Athina,Tennis,Tennis Women's Singles,,summer
+45862,Daniela Hantuchov,F,21.0,181.0,62.0,Slovakia-2,SVK,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+47622,Justine Henin-Hardenne,F,22.0,167.0,60.0,Belgium,BEL,2004,Athina,Tennis,Tennis Women's Singles,Gold,summer
+51184,Janette Husrov,F,30.0,168.0,55.0,Slovakia-2,SVK,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+53701,Jelena Jankovi,F,19.0,177.0,59.0,Serbia and Montenegro,SCG,2004,Athina,Tennis,Tennis Women's Singles,,summer
+55013,Jo Yun-Jeong,F,25.0,167.0,55.0,South Korea,KOR,2004,Athina,Tennis,Tennis Women's Singles,,summer
+56210,Mervana Jugi-Salki,F,24.0,179.0,65.0,Bosnia and Herzegovina,BIH,2004,Athina,Tennis,Tennis Women's Singles,,summer
+57202,Kaia Kanepi,F,19.0,181.0,75.0,Estonia,EST,2004,Athina,Tennis,Tennis Women's Singles,,summer
+57202,Kaia Kanepi,F,19.0,181.0,75.0,Estonia,EST,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+57365,Anik Kapros,F,20.0,172.0,62.0,Hungary-1,HUN,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+63083,Jelena Kostani (-Toi),F,23.0,168.0,59.0,Croatia,CRO,2004,Athina,Tennis,Tennis Women's Singles,,summer
+63083,Jelena Kostani (-Toi),F,23.0,168.0,59.0,Croatia,CRO,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+63278,Klra Koukalov-Zakopalov,F,22.0,166.0,51.0,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Singles,,summer
+63965,Anne Kremer,F,28.0,165.0,55.0,Luxembourg,LUX,2004,Athina,Tennis,Tennis Women's Singles,,summer
+63965,Anne Kremer,F,28.0,165.0,55.0,Luxembourg,LUX,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+64175,Tina Krian,F,30.0,174.0,67.0,Slovenia-1,SLO,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+65125,ubomra Kurhajcov,F,20.0,181.0,66.0,Slovakia,SVK,2004,Athina,Tennis,Tennis Women's Singles,,summer
+65125,ubomra Kurhajcov,F,20.0,181.0,66.0,Slovakia-1,SVK,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+65413,Svetlana Aleksandrovna Kuznetsova,F,19.0,174.0,73.0,Russia,RUS,2004,Athina,Tennis,Tennis Women's Singles,,summer
+65413,Svetlana Aleksandrovna Kuznetsova,F,19.0,174.0,73.0,Russia-1,RUS,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+69498,Li Ting,F,24.0,180.0,72.0,China-1,CHN,2004,Athina,Tennis,Tennis Women's Doubles,Gold,summer
+69843,Yelena Aleksandrovna Likhovtseva,F,28.0,174.0,60.0,Russia-1,RUS,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+74012,"Magdalena Georgieva ""Maggy"" Maleeva",F,29.0,168.0,59.0,Bulgaria,BUL,2004,Athina,Tennis,Tennis Women's Singles,,summer
+74368,Petra Mandula,F,26.0,179.0,66.0,Hungary,HUN,2004,Athina,Tennis,Tennis Women's Singles,,summer
+74368,Petra Mandula,F,26.0,179.0,66.0,Hungary-2,HUN,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+75706,Conchita Martnez Bernat,F,32.0,170.0,59.0,Spain,ESP,2004,Athina,Tennis,Tennis Women's Singles,,summer
+75706,Conchita Martnez Bernat,F,32.0,170.0,59.0,Spain-2,ESP,2004,Athina,Tennis,Tennis Women's Doubles,Silver,summer
+76390,Maja Matevi,F,24.0,175.0,62.0,Slovenia,SLO,2004,Athina,Tennis,Tennis Women's Singles,,summer
+76390,Maja Matevi,F,24.0,175.0,62.0,Slovenia-2,SLO,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+76840,Amlie Simone Mauresmo,F,25.0,175.0,69.0,France,FRA,2004,Athina,Tennis,Tennis Women's Singles,Silver,summer
+76840,Amlie Simone Mauresmo,F,25.0,175.0,69.0,France-2,FRA,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+78055,"Ana Isabel ""Anabel"" Medina Garrigues",F,22.0,169.0,59.0,Spain,ESP,2004,Athina,Tennis,Tennis Women's Singles,,summer
+78055,"Ana Isabel ""Anabel"" Medina Garrigues",F,22.0,169.0,59.0,Spain-1,ESP,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+81119,Alicia Molik,F,23.0,182.0,78.0,Australia,AUS,2004,Athina,Tennis,Tennis Women's Singles,Bronze,summer
+81119,Alicia Molik,F,23.0,182.0,78.0,Australia-1,AUS,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+82099,Akiko Morigami,F,24.0,167.0,57.0,Japan,JPN,2004,Athina,Tennis,Tennis Women's Singles,,summer
+82099,Akiko Morigami,F,24.0,167.0,57.0,Japan-1,JPN,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+83941,Anastasiya Andreyevna Myskina,F,23.0,176.0,59.0,Russia,RUS,2004,Athina,Tennis,Tennis Women's Singles,,summer
+83941,Anastasiya Andreyevna Myskina,F,23.0,176.0,59.0,Russia-2,RUS,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+84173,Kyra Nagy,F,26.0,176.0,70.0,Hungary-2,HUN,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+84800,Martina Navratilova (ubertov- ),F,47.0,172.0,68.0,United States-2,USA,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+87704,Saori Obata,F,26.0,167.0,56.0,Japan,JPN,2004,Athina,Tennis,Tennis Women's Singles,,summer
+87704,Saori Obata,F,26.0,167.0,56.0,Japan-1,JPN,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+93168,Tetiana Yurivna Perebyinis,F,21.0,173.0,59.0,Ukraine,UKR,2004,Athina,Tennis,Tennis Women's Singles,,summer
+93168,Tetiana Yurivna Perebyinis,F,21.0,173.0,59.0,Ukraine,UKR,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+94140,"Nadezhda Viktorovna ""Nadiya"" Petrova",F,22.0,178.0,65.0,Russia,RUS,2004,Athina,Tennis,Tennis Women's Singles,,summer
+94698,Mary Caroline Pierce,F,29.0,180.0,64.0,France,FRA,2004,Athina,Tennis,Tennis Women's Singles,,summer
+94698,Mary Caroline Pierce,F,29.0,180.0,64.0,France-2,FRA,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+95200,Tina Pisnik,F,23.0,172.0,65.0,Slovenia,SLO,2004,Athina,Tennis,Tennis Women's Singles,,summer
+95200,Tina Pisnik,F,23.0,172.0,65.0,Slovenia-2,SLO,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+96732,Wynne Prakusya,F,23.0,162.0,55.0,Indonesia,INA,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+96781,Nicole Pratt,F,31.0,163.0,54.0,Australia,AUS,2004,Athina,Tennis,Tennis Women's Singles,,summer
+96781,Nicole Pratt,F,31.0,163.0,54.0,Australia-2,AUS,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+97295,Libue Prov,F,25.0,175.0,69.0,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+98846,Dally Randriantefy,F,27.0,165.0,55.0,Madagascar,MAD,2004,Athina,Tennis,Tennis Women's Singles,,summer
+99273,Lisa Raymond,F,31.0,165.0,55.0,United States,USA,2004,Athina,Tennis,Tennis Women's Singles,,summer
+99273,Lisa Raymond,F,31.0,165.0,55.0,United States-2,USA,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+103163,"Virginia ""Vivi"" Ruano Pascual",F,30.0,164.0,60.0,Spain-2,ESP,2004,Athina,Tennis,Tennis Women's Doubles,Silver,summer
+103190,Chanda Rubin,F,28.0,167.0,61.0,United States,USA,2004,Athina,Tennis,Tennis Women's Singles,,summer
+103190,Chanda Rubin,F,28.0,167.0,61.0,United States-1,USA,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+105212,Mara Antonia Snchez Lorenzo,F,26.0,171.0,59.0,Spain,ESP,2004,Athina,Tennis,Tennis Women's Singles,,summer
+105256,"Arnzazu Isabel Mara ""Arantxa"" Snchez Vicario",F,32.0,169.0,56.0,Spain-1,ESP,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+106638,Claudine Schaul,F,20.0,169.0,62.0,Luxembourg,LUX,2004,Athina,Tennis,Tennis Women's Singles,,summer
+106638,Claudine Schaul,F,20.0,169.0,62.0,Luxembourg,LUX,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+106817,Francesca Lizzy Schiavone,F,24.0,166.0,64.0,Italy,ITA,2004,Athina,Tennis,Tennis Women's Singles,,summer
+106817,Francesca Lizzy Schiavone,F,24.0,166.0,64.0,Italy-1,ITA,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+107328,Patty Schnyder (-Hofmann),F,25.0,168.0,56.0,Switzerland,SUI,2004,Athina,Tennis,Tennis Women's Singles,,summer
+107328,Patty Schnyder (-Hofmann),F,25.0,168.0,56.0,Switzerland,SUI,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+108845,"Mara Luisa ""Magui"" Serna Barrera",F,25.0,167.0,65.0,Spain,ESP,2004,Athina,Tennis,Tennis Women's Singles,,summer
+112066,Anna Smashnova-Pistolesi,F,28.0,159.0,52.0,Israel,ISR,2004,Athina,Tennis,Tennis Women's Singles,,summer
+113963,Karolina prem,F,19.0,175.0,60.0,Croatia,CRO,2004,Athina,Tennis,Tennis Women's Singles,,summer
+113963,Karolina prem,F,19.0,175.0,60.0,Croatia,CRO,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+114035,Katarina Srebotnik,F,23.0,180.0,62.0,Slovenia,SLO,2004,Athina,Tennis,Tennis Women's Singles,,summer
+114035,Katarina Srebotnik,F,23.0,180.0,62.0,Slovenia-1,SLO,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+115532,Samantha Jane Stosur,F,20.0,175.0,68.0,Australia,AUS,2004,Athina,Tennis,Tennis Women's Singles,,summer
+115532,Samantha Jane Stosur,F,20.0,175.0,68.0,Australia-2,AUS,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+115895,Barbora Strcov (-Zhlavov),F,18.0,164.0,60.0,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Singles,,summer
+115895,Barbora Strcov (-Zhlavov),F,18.0,164.0,60.0,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+115937,Rennae Stubbs,F,33.0,178.0,65.0,Australia-1,AUS,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+116112,Paola Lorena Surez,F,28.0,170.0,64.0,Argentina,ARG,2004,Athina,Tennis,Tennis Women's Singles,,summer
+116112,Paola Lorena Surez,F,28.0,170.0,64.0,Argentina,ARG,2004,Athina,Tennis,Tennis Women's Doubles,Bronze,summer
+116142,Martina Such,F,23.0,170.0,56.0,Slovakia,SVK,2004,Athina,Tennis,Tennis Women's Singles,,summer
+116142,Martina Such,F,23.0,170.0,56.0,Slovakia-1,SVK,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+116233,Ai Sugiyama,F,29.0,161.0,56.0,Japan,JPN,2004,Athina,Tennis,Tennis Women's Singles,,summer
+116233,Ai Sugiyama,F,29.0,161.0,56.0,Japan-2,JPN,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+116495,Sun Tiantian,F,22.0,175.0,64.0,China-1,CHN,2004,Athina,Tennis,Tennis Women's Doubles,Gold,summer
+118375,Tamarine Tanasugarn,F,27.0,165.0,60.0,Thailand,THA,2004,Athina,Tennis,Tennis Women's Singles,,summer
+118556,Patricia Anahi Tarabini,F,36.0,169.0,60.0,Argentina,ARG,2004,Athina,Tennis,Tennis Women's Doubles,Bronze,summer
+119391,Sandrine Testud (-Magnelli),F,32.0,176.0,68.0,France,FRA,2004,Athina,Tennis,Tennis Women's Singles,,summer
+119391,Sandrine Testud (-Magnelli),F,32.0,176.0,68.0,France-1,FRA,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+125872,Mara Alejandra Vento-Kabchi,F,30.0,168.0,64.0,Venezuela,VEN,2004,Athina,Tennis,Tennis Women's Singles,,summer
+126721,Roberta Vinci,F,21.0,164.0,58.0,Italy-2,ITA,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+130175,"Angelique ""Angie"" Widjaja",F,19.0,176.0,65.0,Indonesia,INA,2004,Athina,Tennis,Tennis Women's Singles,,summer
+130175,"Angelique ""Angie"" Widjaja",F,19.0,176.0,65.0,Indonesia,INA,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+130696,Venus Ebony Starr Williams,F,24.0,185.0,75.0,United States,USA,2004,Athina,Tennis,Tennis Women's Singles,,summer
+130696,Venus Ebony Starr Williams,F,24.0,185.0,75.0,United States-1,USA,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+132422,Yan Zi,F,19.0,171.0,55.0,China-2,CHN,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+133766,Khristina Zakhariadou,F,29.0,163.0,57.0,Greece,GRE,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+134731,Zheng Jie,F,21.0,164.0,57.0,China,CHN,2004,Athina,Tennis,Tennis Women's Singles,,summer
+134731,Zheng Jie,F,21.0,164.0,57.0,China-2,CHN,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+135417,Fabiola Zuluaga Amado,F,25.0,171.0,65.0,Colombia,COL,2004,Athina,Tennis,Tennis Women's Singles,,summer
+135417,Fabiola Zuluaga Amado,F,25.0,171.0,65.0,Colombia,COL,2004,Athina,Tennis,Tennis Women's Doubles,,summer
+3287,Akgul Charievna Amanmuradova,F,24.0,190.0,85.0,Uzbekistan,UZB,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+4363,Maret Ani,F,26.0,175.0,64.0,Estonia,EST,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+4363,Maret Ani,F,26.0,175.0,64.0,Estonia,EST,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+5175,Grta Arn,F,29.0,180.0,70.0,Hungary,HUN,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+5428,Lena Sofia Alexandra Arvidsson,F,24.0,176.0,69.0,Sweden,SWE,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+6296,"Viktoriya Fyodorovna ""Vika"" Azarenko",F,19.0,183.0,60.0,Belarus,BLR,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+6296,"Viktoriya Fyodorovna ""Vika"" Azarenko",F,19.0,183.0,60.0,Belarus-1,BLR,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+6632,Timea Bacsinszky,F,19.0,170.0,62.0,Switzerland,SUI,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+7437,Sybille Bammer,F,28.0,174.0,64.0,Austria,AUT,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+10042,Iveta Beneov (-Melzer),F,25.0,170.0,56.0,Czech Republic,CZE,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+10042,Iveta Beneov (-Melzer),F,25.0,170.0,56.0,Czech Republic-2,CZE,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+11973,Cara Cavell Black (-Stephens),F,29.0,167.0,55.0,Zimbabwe,ZIM,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+13129,Alona Volodymyrivna Bondarenko,F,23.0,168.0,59.0,Ukraine,UKR,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+13129,Alona Volodymyrivna Bondarenko,F,23.0,168.0,59.0,Ukraine-2,UKR,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+13133,Kateryna Volodymyrivna Bondarenko,F,21.0,175.0,60.0,Ukraine,UKR,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+13133,Kateryna Volodymyrivna Bondarenko,F,21.0,175.0,60.0,Ukraine-2,UKR,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+19711,Chan Yung-Jan,F,18.0,170.0,60.0,Chinese Taipei,TPE,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+19711,Chan Yung-Jan,F,18.0,170.0,60.0,Chinese Taipei,TPE,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+21377,Chuang Chia-Jung,F,23.0,168.0,62.0,Chinese Taipei,TPE,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+21679,Sorana Mihaela Crstea,F,18.0,175.0,63.0,Romania,ROU,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+23110,Aliz Cornet,F,18.0,173.0,60.0,France,FRA,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+23110,Aliz Cornet,F,18.0,173.0,60.0,France,FRA,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+23732,Jill Craybas,F,34.0,160.0,56.0,United States,USA,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+25246,Eleni Daniilidou,F,25.0,183.0,72.0,Greece,GRE,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+25246,Eleni Daniilidou,F,25.0,183.0,72.0,Greece,GRE,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+25544,Lindsay Ann Davenport,F,32.0,191.0,79.0,United States-1,USA,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+27351,Casey Dellacqua,F,23.0,167.0,69.0,Australia,AUS,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+27351,Casey Dellacqua,F,23.0,167.0,69.0,Australia-2,AUS,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+27457,Yelena Vyacheslavovna Dementyeva (-Afinogenova),F,26.0,180.0,64.0,Russia,RUS,2008,Beijing,Tennis,Tennis Women's Singles,Gold,summer
+29216,Marta Domachowska,F,22.0,176.0,60.0,Poland,POL,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+29216,Marta Domachowska,F,22.0,176.0,60.0,Poland-2,POL,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+30540,Gisela Alejandra Dulko (-Gago),F,23.0,170.0,56.0,Argentina,ARG,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+30540,Gisela Alejandra Dulko (-Gago),F,23.0,170.0,56.0,Argentina,ARG,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+32787,Marina Erakovic,F,20.0,174.0,65.0,New Zealand,NZL,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+33052,Sara Errani,F,21.0,164.0,58.0,Italy,ITA,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+37884,Emmanuelle Gagliardi,F,32.0,171.0,60.0,Switzerland,SUI,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+39674,Anna Gerasimou,F,20.0,172.0,70.0,Greece,GRE,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+42124,Olga Alekseyevna Govortsova,F,19.0,180.0,65.0,Belarus,BLR,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+42124,Olga Alekseyevna Govortsova,F,19.0,180.0,65.0,Belarus-2,BLR,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+45862,Daniela Hantuchov,F,25.0,181.0,62.0,Slovakia,SVK,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+45862,Daniela Hantuchov,F,25.0,181.0,62.0,Slovakia,SVK,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+49967,Liezel Horn-Huber,F,31.0,178.0,72.0,United States-1,USA,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+51184,Janette Husrov,F,34.0,168.0,55.0,Slovakia,SVK,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+53701,Jelena Jankovi,F,23.0,177.0,59.0,Serbia,SRB,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+53752,Klaudia Anna Jans-Ignacik,F,23.0,173.0,64.0,Poland-1,POL,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+56086,Betina Jozami,F,19.0,180.0,74.0,Argentina,ARG,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+57202,Kaia Kanepi,F,23.0,181.0,75.0,Estonia,EST,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+57202,Kaia Kanepi,F,23.0,181.0,75.0,Estonia,EST,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+62928,Mariya Serhivna Koryttseva,F,23.0,168.0,54.0,Ukraine,UKR,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+62928,Mariya Serhivna Koryttseva,F,23.0,168.0,54.0,Ukraine-1,UKR,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+63278,Klra Koukalov-Zakopalov,F,26.0,166.0,51.0,Czech Republic,CZE,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+65260,Darya Andreyevna Kustova,F,22.0,178.0,65.0,Belarus-2,BLR,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+65413,Svetlana Aleksandrovna Kuznetsova,F,23.0,174.0,73.0,Russia,RUS,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+65413,Svetlana Aleksandrovna Kuznetsova,F,23.0,174.0,73.0,Russia-1,RUS,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+65461,Petra Kvitov,F,18.0,183.0,70.0,Czech Republic-1,CZE,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+69454,Li Na,F,26.0,172.0,67.0,China,CHN,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+70802,Nuria Llagostera Vives,F,28.0,156.0,53.0,Spain,ESP,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+70802,Nuria Llagostera Vives,F,28.0,156.0,53.0,Spain-2,ESP,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+75805,Mara Jos Martnez Snchez,F,25.0,176.0,68.0,Spain,ESP,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+75805,Mara Jos Martnez Snchez,F,25.0,176.0,68.0,Spain-2,ESP,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+78055,"Ana Isabel ""Anabel"" Medina Garrigues",F,26.0,169.0,59.0,Spain,ESP,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+78055,"Ana Isabel ""Anabel"" Medina Garrigues",F,26.0,169.0,59.0,Spain-1,ESP,2008,Beijing,Tennis,Tennis Women's Doubles,Silver,summer
+80297,Sania Mirza,F,21.0,173.0,57.0,India,IND,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+80297,Sania Mirza,F,21.0,173.0,57.0,India,IND,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+81119,Alicia Molik,F,27.0,182.0,78.0,Australia,AUS,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+81119,Alicia Molik,F,27.0,182.0,78.0,Australia-2,AUS,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+82152,Ayumi Morita,F,18.0,165.0,56.0,Japan,JPN,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+82152,Ayumi Morita,F,18.0,165.0,56.0,Japan,JPN,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+84756,Dominika Navara Cibulkov,F,19.0,160.0,55.0,Slovakia,SVK,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+87844,Tzipora Obziler,F,35.0,172.0,58.0,Israel,ISR,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+87844,Tzipora Obziler,F,35.0,172.0,58.0,Israel,ISR,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+91728,Pauline Parmentier,F,22.0,175.0,65.0,France,FRA,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+92472,Shahar Pe'er,F,21.0,170.0,60.0,Israel,ISR,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+92472,Shahar Pe'er,F,21.0,170.0,60.0,Israel,ISR,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+93011,Peng Shuai,F,22.0,173.0,61.0,China,CHN,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+93011,Peng Shuai,F,22.0,173.0,61.0,China-2,CHN,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+93049,Flavia Pennetta,F,26.0,172.0,58.0,Italy,ITA,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+93049,Flavia Pennetta,F,26.0,172.0,58.0,Italy-2,ITA,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+93168,Tetiana Yurivna Perebyinis,F,25.0,173.0,59.0,Ukraine,UKR,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+93168,Tetiana Yurivna Perebyinis,F,25.0,173.0,59.0,Ukraine-1,UKR,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+95162,Tsvetana Kirilova Pironkova,F,20.0,180.0,66.0,Bulgaria,BUL,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+97383,Tatyana Nikolayevna Puchek,F,29.0,176.0,66.0,Belarus-1,BLR,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+98237,Agnieszka Roma Radwaska,F,19.0,172.0,56.0,Poland,POL,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+98237,Agnieszka Roma Radwaska,F,19.0,172.0,56.0,Poland-2,POL,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+98913,Sunitha Rao,F,22.0,170.0,63.0,India,IND,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+99332,Virginie Razzano,F,25.0,173.0,64.0,France,FRA,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+99332,Virginie Razzano,F,25.0,173.0,64.0,France,FRA,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+102673,Alicja Rosolska,F,22.0,166.0,50.0,Poland-1,POL,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+103163,"Virginia ""Vivi"" Ruano Pascual",F,34.0,164.0,60.0,Spain-1,ESP,2008,Beijing,Tennis,Tennis Women's Doubles,Silver,summer
+104216,Lucie afov,F,21.0,177.0,65.0,Czech Republic,CZE,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+104216,Lucie afov,F,21.0,177.0,65.0,Czech Republic-1,CZE,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+104228,Dinara Mubinovna Safina,F,22.0,182.0,70.0,Russia,RUS,2008,Beijing,Tennis,Tennis Women's Singles,Silver,summer
+104228,Dinara Mubinovna Safina,F,22.0,182.0,70.0,Russia-1,RUS,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+105555,Mara Santangelo,F,27.0,183.0,63.0,Italy,ITA,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+105555,Mara Santangelo,F,27.0,183.0,63.0,Italy-1,ITA,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+106817,Francesca Lizzy Schiavone,F,28.0,166.0,64.0,Italy,ITA,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+106817,Francesca Lizzy Schiavone,F,28.0,166.0,64.0,Italy-2,ITA,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+107328,Patty Schnyder (-Hofmann),F,29.0,168.0,56.0,Switzerland,SUI,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+107328,Patty Schnyder (-Hofmann),F,29.0,168.0,56.0,Switzerland,SUI,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+108759,Milagros Sequera (-Huss),F,27.0,170.0,58.0,Venezuela,VEN,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+109043,Selima Sfar,F,31.0,166.0,55.0,Tunisia,TUN,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+115532,Samantha Jane Stosur,F,24.0,175.0,68.0,Australia,AUS,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+115532,Samantha Jane Stosur,F,24.0,175.0,68.0,Australia-1,AUS,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+115937,Rennae Stubbs,F,37.0,178.0,65.0,Australia-1,AUS,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+116082,Carla Surez Navarro,F,19.0,162.0,62.0,Spain,ESP,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+116233,Ai Sugiyama,F,33.0,161.0,56.0,Japan,JPN,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+116233,Ai Sugiyama,F,33.0,161.0,56.0,Japan,JPN,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+116495,Sun Tiantian,F,26.0,175.0,64.0,China-2,CHN,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+117414,gnes Szvay,F,19.0,172.0,62.0,Hungary,HUN,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+117414,gnes Szvay,F,19.0,172.0,62.0,Hungary,HUN,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+118375,Tamarine Tanasugarn,F,31.0,165.0,60.0,Thailand,THA,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+123785,Nicole Vaidiov,F,19.0,183.0,69.0,Czech Republic,CZE,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+123785,Nicole Vaidiov,F,19.0,183.0,69.0,Czech Republic-2,CZE,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+126199,Yelena Sergeyevna Vesnina,F,22.0,180.0,60.0,Russia-2,RUS,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+126721,Roberta Vinci,F,25.0,164.0,58.0,Italy-1,ITA,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+130667,Serena Jamika Williams,F,26.0,175.0,70.0,United States,USA,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+130667,Serena Jamika Williams,F,26.0,175.0,70.0,United States-2,USA,2008,Beijing,Tennis,Tennis Women's Doubles,Gold,summer
+130696,Venus Ebony Starr Williams,F,28.0,185.0,75.0,United States,USA,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+130696,Venus Ebony Starr Williams,F,28.0,185.0,75.0,United States-2,USA,2008,Beijing,Tennis,Tennis Women's Doubles,Gold,summer
+131652,Caroline Wozniacki,F,18.0,179.0,58.0,Denmark,DEN,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+132422,Yan Zi,F,23.0,171.0,55.0,China,CHN,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+132422,Yan Zi,F,23.0,171.0,55.0,China-1,CHN,2008,Beijing,Tennis,Tennis Women's Doubles,Bronze,summer
+134731,Zheng Jie,F,25.0,164.0,57.0,China,CHN,2008,Beijing,Tennis,Tennis Women's Singles,,summer
+134731,Zheng Jie,F,25.0,164.0,57.0,China-1,CHN,2008,Beijing,Tennis,Tennis Women's Doubles,Bronze,summer
+135508,Vera Igorevna Zvonaryova,F,23.0,172.0,59.0,Russia,RUS,2008,Beijing,Tennis,Tennis Women's Singles,Bronze,summer
+135508,Vera Igorevna Zvonaryova,F,23.0,172.0,59.0,Russia-2,RUS,2008,Beijing,Tennis,Tennis Women's Doubles,,summer
+5428,Lena Sofia Alexandra Arvidsson,F,28.0,176.0,69.0,Sweden,SWE,2012,London,Tennis,Tennis Women's Singles,,summer
+5428,Lena Sofia Alexandra Arvidsson,F,28.0,176.0,69.0,Sweden,SWE,2012,London,Tennis,Tennis Mixed Doubles,,summer
+6296,"Viktoriya Fyodorovna ""Vika"" Azarenko",F,22.0,183.0,60.0,Belarus,BLR,2012,London,Tennis,Tennis Women's Singles,Bronze,summer
+6296,"Viktoriya Fyodorovna ""Vika"" Azarenko",F,22.0,183.0,60.0,Belarus,BLR,2012,London,Tennis,Tennis Mixed Doubles,Gold,summer
+6482,Tmea Babos,F,19.0,179.0,68.0,Hungary,HUN,2012,London,Tennis,Tennis Women's Singles,,summer
+6482,Tmea Babos,F,19.0,179.0,68.0,Hungary,HUN,2012,London,Tennis,Tennis Women's Doubles,,summer
+7389,Elena Baltacha,F,28.0,175.0,70.0,Great Britain,GBR,2012,London,Tennis,Tennis Women's Singles,,summer
+7389,Elena Baltacha,F,28.0,175.0,70.0,Great Britain-1,GBR,2012,London,Tennis,Tennis Women's Doubles,,summer
+8268,Mona Barthel,F,22.0,185.0,75.0,Germany,GER,2012,London,Tennis,Tennis Women's Singles,,summer
+9389,Irina Camelia Begu,F,21.0,181.0,67.0,Romania,ROU,2012,London,Tennis,Tennis Women's Singles,,summer
+13133,Kateryna Volodymyrivna Bondarenko,F,25.0,175.0,60.0,Ukraine,UKR,2012,London,Tennis,Tennis Women's Singles,,summer
+19343,Vernica Cepede Royg,F,20.0,163.0,66.0,Paraguay,PAR,2012,London,Tennis,Tennis Women's Singles,,summer
+19474,Petra Cetkovsk,F,27.0,172.0,64.0,Czech Republic,CZE,2012,London,Tennis,Tennis Women's Singles,,summer
+19474,Petra Cetkovsk,F,27.0,172.0,64.0,Czech Republic-2,CZE,2012,London,Tennis,Tennis Women's Doubles,,summer
+19581,Margalit'a Chakhnashvili,F,29.0,172.0,58.0,Georgia,GEO,2012,London,Tennis,Tennis Women's Doubles,,summer
+19583,Rushmi Chakravarthi,F,34.0,170.0,65.0,India,IND,2012,London,Tennis,Tennis Women's Doubles,,summer
+21377,Chuang Chia-Jung,F,27.0,168.0,62.0,Chinese Taipei,TPE,2012,London,Tennis,Tennis Women's Doubles,,summer
+21679,Sorana Mihaela Crstea,F,22.0,175.0,63.0,Romania,ROU,2012,London,Tennis,Tennis Women's Singles,,summer
+21679,Sorana Mihaela Crstea,F,22.0,175.0,63.0,Romania,ROU,2012,London,Tennis,Tennis Women's Doubles,,summer
+22055,Kim Antonie Lode Clijsters,F,29.0,175.0,72.0,Belgium,BEL,2012,London,Tennis,Tennis Women's Singles,,summer
+23110,Aliz Cornet,F,22.0,173.0,60.0,France,FRA,2012,London,Tennis,Tennis Women's Singles,,summer
+23110,Aliz Cornet,F,22.0,173.0,60.0,France,FRA,2012,London,Tennis,Tennis Women's Doubles,,summer
+27351,Casey Dellacqua,F,27.0,167.0,69.0,Australia-2,AUS,2012,London,Tennis,Tennis Women's Doubles,,summer
+30293,Stphanie Dubois,F,25.0,162.0,59.0,Canada,CAN,2012,London,Tennis,Tennis Women's Doubles,,summer
+30540,Gisela Alejandra Dulko (-Gago),F,27.0,170.0,56.0,Argentina,ARG,2012,London,Tennis,Tennis Mixed Doubles,,summer
+30540,Gisela Alejandra Dulko (-Gago),F,27.0,170.0,56.0,Argentina,ARG,2012,London,Tennis,Tennis Women's Doubles,,summer
+30773,Mariana Duque Mario,F,22.0,169.0,61.0,Colombia,COL,2012,London,Tennis,Tennis Women's Singles,,summer
+32787,Marina Erakovic,F,24.0,174.0,65.0,New Zealand,NZL,2012,London,Tennis,Tennis Women's Singles,,summer
+33052,Sara Errani,F,25.0,164.0,58.0,Italy,ITA,2012,London,Tennis,Tennis Women's Singles,,summer
+33052,Sara Errani,F,25.0,164.0,58.0,Italy-2,ITA,2012,London,Tennis,Tennis Mixed Doubles,,summer
+33052,Sara Errani,F,25.0,164.0,58.0,Italy-1,ITA,2012,London,Tennis,Tennis Women's Doubles,,summer
+37958,"Jarmila Gajdoov (-Groth-, -Wolfe)",F,25.0,173.0,68.0,Australia-1,AUS,2012,London,Tennis,Tennis Women's Doubles,,summer
+41847,Julia Grges,F,23.0,180.0,69.0,Germany,GER,2012,London,Tennis,Tennis Women's Singles,,summer
+41847,Julia Grges,F,23.0,180.0,69.0,Germany-1,GER,2012,London,Tennis,Tennis Women's Doubles,,summer
+43112,Anna-Lena Grnefeld,F,27.0,180.0,78.0,Germany-1,GER,2012,London,Tennis,Tennis Women's Doubles,,summer
+44961,Simona Halep,F,20.0,170.0,61.0,Romania,ROU,2012,London,Tennis,Tennis Women's Singles,,summer
+44961,Simona Halep,F,20.0,170.0,61.0,Romania,ROU,2012,London,Tennis,Tennis Women's Doubles,,summer
+45862,Daniela Hantuchov,F,29.0,181.0,62.0,Slovakia,SVK,2012,London,Tennis,Tennis Women's Singles,,summer
+45862,Daniela Hantuchov,F,29.0,181.0,62.0,Slovakia,SVK,2012,London,Tennis,Tennis Women's Doubles,,summer
+47860,Polona Hercog,F,21.0,183.0,71.0,Slovenia,SLO,2012,London,Tennis,Tennis Women's Singles,,summer
+48902,Andrea Hlavkov,F,25.0,175.0,60.0,Czech Republic-1,CZE,2012,London,Tennis,Tennis Women's Doubles,Silver,summer
+49967,Liezel Horn-Huber,F,35.0,178.0,72.0,United States-2,USA,2012,London,Tennis,Tennis Mixed Doubles,,summer
+49967,Liezel Horn-Huber,F,35.0,178.0,72.0,United States-2,USA,2012,London,Tennis,Tennis Women's Doubles,,summer
+50439,Lucie Hradeck,F,27.0,177.0,72.0,Czech Republic,CZE,2012,London,Tennis,Tennis Mixed Doubles,,summer
+50439,Lucie Hradeck,F,27.0,177.0,72.0,Czech Republic-1,CZE,2012,London,Tennis,Tennis Women's Doubles,Silver,summer
+50526,Hsieh Su-Wei,F,26.0,170.0,57.0,Chinese Taipei,TPE,2012,London,Tennis,Tennis Women's Singles,,summer
+50526,Hsieh Su-Wei,F,26.0,170.0,57.0,Chinese Taipei,TPE,2012,London,Tennis,Tennis Women's Doubles,,summer
+52882,Ana Ivanovi (-Schweinsteiger),F,24.0,184.0,69.0,Serbia,SRB,2012,London,Tennis,Tennis Women's Singles,,summer
+52882,Ana Ivanovi (-Schweinsteiger),F,24.0,184.0,69.0,Serbia,SRB,2012,London,Tennis,Tennis Mixed Doubles,,summer
+53045,Ons Jabeur,F,17.0,167.0,66.0,Tunisia,TUN,2012,London,Tennis,Tennis Women's Singles,,summer
+53701,Jelena Jankovi,F,27.0,177.0,59.0,Serbia,SRB,2012,London,Tennis,Tennis Women's Singles,,summer
+53752,Klaudia Anna Jans-Ignacik,F,27.0,173.0,64.0,Poland-2,POL,2012,London,Tennis,Tennis Women's Doubles,,summer
+58772,Anne Viensouk Keothavong,F,28.0,174.0,63.0,Great Britain,GBR,2012,London,Tennis,Tennis Women's Singles,,summer
+58772,Anne Viensouk Keothavong,F,28.0,174.0,63.0,Great Britain-1,GBR,2012,London,Tennis,Tennis Women's Doubles,,summer
+58786,Angelique Kerber,F,24.0,173.0,68.0,Germany,GER,2012,London,Tennis,Tennis Women's Singles,,summer
+58786,Angelique Kerber,F,24.0,173.0,68.0,Germany-2,GER,2012,London,Tennis,Tennis Mixed Doubles,,summer
+58786,Angelique Kerber,F,24.0,173.0,68.0,Germany-2,GER,2012,London,Tennis,Tennis Women's Doubles,,summer
+60696,Mariya Yuryevna Kirilenko,F,25.0,174.0,60.0,Russia,RUS,2012,London,Tennis,Tennis Women's Singles,,summer
+60696,Mariya Yuryevna Kirilenko,F,25.0,174.0,60.0,Russia-1,RUS,2012,London,Tennis,Tennis Women's Doubles,Bronze,summer
+61194,Andreja Klepa,F,26.0,175.0,71.0,Slovenia,SLO,2012,London,Tennis,Tennis Women's Doubles,,summer
+63278,Klra Koukalov-Zakopalov,F,30.0,166.0,51.0,Czech Republic,CZE,2012,London,Tennis,Tennis Women's Singles,,summer
+65461,Petra Kvitov,F,22.0,183.0,70.0,Czech Republic,CZE,2012,London,Tennis,Tennis Women's Singles,,summer
+68843,Varvara Petrovna Lepchenko,F,26.0,180.0,72.0,United States,USA,2012,London,Tennis,Tennis Women's Singles,,summer
+69454,Li Na,F,30.0,172.0,67.0,China,CHN,2012,London,Tennis,Tennis Women's Singles,,summer
+69454,Li Na,F,30.0,172.0,67.0,China-2,CHN,2012,London,Tennis,Tennis Women's Doubles,,summer
+70464,Sabine Lisicki,F,22.0,178.0,70.0,Germany,GER,2012,London,Tennis,Tennis Women's Singles,,summer
+70464,Sabine Lisicki,F,22.0,178.0,70.0,Germany-1,GER,2012,London,Tennis,Tennis Mixed Doubles,,summer
+70464,Sabine Lisicki,F,22.0,178.0,70.0,Germany-2,GER,2012,London,Tennis,Tennis Women's Doubles,,summer
+70802,Nuria Llagostera Vives,F,32.0,156.0,53.0,Spain-1,ESP,2012,London,Tennis,Tennis Women's Doubles,,summer
+73822,Yekaterina Valeryevna Makarova,F,24.0,176.0,65.0,Russia-2,RUS,2012,London,Tennis,Tennis Women's Doubles,,summer
+75805,Mara Jos Martnez Snchez,F,29.0,176.0,68.0,Spain,ESP,2012,London,Tennis,Tennis Women's Singles,,summer
+75805,Mara Jos Martnez Snchez,F,29.0,176.0,68.0,Spain-1,ESP,2012,London,Tennis,Tennis Women's Doubles,,summer
+77607,Christina McHale,F,20.0,170.0,58.0,United States,USA,2012,London,Tennis,Tennis Women's Singles,,summer
+78055,"Ana Isabel ""Anabel"" Medina Garrigues",F,29.0,169.0,59.0,Spain,ESP,2012,London,Tennis,Tennis Women's Singles,,summer
+78055,"Ana Isabel ""Anabel"" Medina Garrigues",F,29.0,169.0,59.0,Spain-2,ESP,2012,London,Tennis,Tennis Women's Doubles,,summer
+80297,Sania Mirza,F,25.0,173.0,57.0,India,IND,2012,London,Tennis,Tennis Mixed Doubles,,summer
+80297,Sania Mirza,F,25.0,173.0,57.0,India,IND,2012,London,Tennis,Tennis Women's Doubles,,summer
+80677,Kristina Mladenovic,F,19.0,184.0,60.0,France,FRA,2012,London,Tennis,Tennis Women's Doubles,,summer
+84756,Dominika Navara Cibulkov,F,23.0,160.0,55.0,Slovakia,SVK,2012,London,Tennis,Tennis Women's Singles,,summer
+84756,Dominika Navara Cibulkov,F,23.0,160.0,55.0,Slovakia,SVK,2012,London,Tennis,Tennis Women's Doubles,,summer
+91758,Arantxa Parra Santonja,F,29.0,176.0,61.0,Spain-2,ESP,2012,London,Tennis,Tennis Women's Doubles,,summer
+91979,Tamira Shelah Paszek,F,21.0,165.0,62.0,Austria,AUT,2012,London,Tennis,Tennis Women's Singles,,summer
+92472,Shahar Pe'er,F,25.0,170.0,60.0,Israel,ISR,2012,London,Tennis,Tennis Women's Singles,,summer
+93011,Peng Shuai,F,26.0,173.0,61.0,China,CHN,2012,London,Tennis,Tennis Women's Singles,,summer
+93011,Peng Shuai,F,26.0,173.0,61.0,China-1,CHN,2012,London,Tennis,Tennis Women's Doubles,,summer
+93049,Flavia Pennetta,F,30.0,172.0,58.0,Italy,ITA,2012,London,Tennis,Tennis Women's Singles,,summer
+93049,Flavia Pennetta,F,30.0,172.0,58.0,Italy-2,ITA,2012,London,Tennis,Tennis Women's Doubles,,summer
+94140,"Nadezhda Viktorovna ""Nadiya"" Petrova",F,30.0,178.0,65.0,Russia,RUS,2012,London,Tennis,Tennis Women's Singles,,summer
+94140,"Nadezhda Viktorovna ""Nadiya"" Petrova",F,30.0,178.0,65.0,Russia-1,RUS,2012,London,Tennis,Tennis Women's Doubles,Bronze,summer
+95162,Tsvetana Kirilova Pironkova,F,24.0,180.0,66.0,Bulgaria,BUL,2012,London,Tennis,Tennis Women's Singles,,summer
+98237,Agnieszka Roma Radwaska,F,23.0,172.0,56.0,Poland,POL,2012,London,Tennis,Tennis Women's Singles,,summer
+98237,Agnieszka Roma Radwaska,F,23.0,172.0,56.0,Poland,POL,2012,London,Tennis,Tennis Mixed Doubles,,summer
+98237,Agnieszka Roma Radwaska,F,23.0,172.0,56.0,Poland-1,POL,2012,London,Tennis,Tennis Women's Doubles,,summer
+98238,Urszula Radwaska,F,21.0,178.0,57.0,Poland,POL,2012,London,Tennis,Tennis Women's Singles,,summer
+98238,Urszula Radwaska,F,21.0,178.0,57.0,Poland-1,POL,2012,London,Tennis,Tennis Women's Doubles,,summer
+99273,Lisa Raymond,F,38.0,165.0,55.0,United States-1,USA,2012,London,Tennis,Tennis Mixed Doubles,Bronze,summer
+99273,Lisa Raymond,F,38.0,165.0,55.0,United States-2,USA,2012,London,Tennis,Tennis Women's Doubles,,summer
+101497,Laura Robson,F,18.0,180.0,62.0,Great Britain,GBR,2012,London,Tennis,Tennis Women's Singles,,summer
+101497,Laura Robson,F,18.0,180.0,62.0,Great Britain,GBR,2012,London,Tennis,Tennis Mixed Doubles,Silver,summer
+101497,Laura Robson,F,18.0,180.0,62.0,Great Britain-2,GBR,2012,London,Tennis,Tennis Women's Doubles,,summer
+101649,Anastasia Rodionova,F,30.0,167.0,59.0,Australia-1,AUS,2012,London,Tennis,Tennis Women's Doubles,,summer
+102673,Alicja Rosolska,F,26.0,166.0,50.0,Poland-2,POL,2012,London,Tennis,Tennis Women's Doubles,,summer
+104216,Lucie afov,F,25.0,177.0,65.0,Czech Republic,CZE,2012,London,Tennis,Tennis Women's Singles,,summer
+104216,Lucie afov,F,25.0,177.0,65.0,Czech Republic-2,CZE,2012,London,Tennis,Tennis Women's Doubles,,summer
+106817,Francesca Lizzy Schiavone,F,32.0,166.0,64.0,Italy,ITA,2012,London,Tennis,Tennis Women's Singles,,summer
+106817,Francesca Lizzy Schiavone,F,32.0,166.0,64.0,Italy-2,ITA,2012,London,Tennis,Tennis Women's Doubles,,summer
+109269,Mariya Yuryevna Sharapova,F,25.0,188.0,59.0,Russia,RUS,2012,London,Tennis,Tennis Women's Singles,Silver,summer
+110107,Yaroslava Vyacheslavovna Shvedova,F,24.0,180.0,68.0,Kazakhstan,KAZ,2012,London,Tennis,Tennis Women's Singles,,summer
+110107,Yaroslava Vyacheslavovna Shvedova,F,24.0,180.0,68.0,Kazakhstan,KAZ,2012,London,Tennis,Tennis Women's Doubles,,summer
+112899,Silvia Soler Espinosa,F,24.0,169.0,61.0,Spain,ESP,2012,London,Tennis,Tennis Women's Singles,,summer
+114035,Katarina Srebotnik,F,31.0,180.0,62.0,Slovenia,SLO,2012,London,Tennis,Tennis Women's Doubles,,summer
+115532,Samantha Jane Stosur,F,28.0,175.0,68.0,Australia,AUS,2012,London,Tennis,Tennis Women's Singles,,summer
+115532,Samantha Jane Stosur,F,28.0,175.0,68.0,Australia,AUS,2012,London,Tennis,Tennis Mixed Doubles,,summer
+115532,Samantha Jane Stosur,F,28.0,175.0,68.0,Australia-2,AUS,2012,London,Tennis,Tennis Women's Doubles,,summer
+116082,Carla Surez Navarro,F,23.0,162.0,62.0,Spain,ESP,2012,London,Tennis,Tennis Women's Singles,,summer
+116112,Paola Lorena Surez,F,36.0,170.0,64.0,Argentina,ARG,2012,London,Tennis,Tennis Women's Doubles,,summer
+117414,gnes Szvay,F,23.0,172.0,62.0,Hungary,HUN,2012,London,Tennis,Tennis Women's Singles,,summer
+117414,gnes Szvay,F,23.0,172.0,62.0,Hungary,HUN,2012,London,Tennis,Tennis Women's Doubles,,summer
+117672,Ana T'at'ishvili,F,22.0,171.0,62.0,Georgia,GEO,2012,London,Tennis,Tennis Women's Singles,,summer
+117672,Ana T'at'ishvili,F,22.0,171.0,62.0,Georgia,GEO,2012,London,Tennis,Tennis Women's Doubles,,summer
+126199,Yelena Sergeyevna Vesnina,F,25.0,180.0,60.0,Russia,RUS,2012,London,Tennis,Tennis Mixed Doubles,,summer
+126199,Yelena Sergeyevna Vesnina,F,25.0,180.0,60.0,Russia-2,RUS,2012,London,Tennis,Tennis Women's Doubles,,summer
+126721,Roberta Vinci,F,29.0,164.0,58.0,Italy,ITA,2012,London,Tennis,Tennis Women's Singles,,summer
+126721,Roberta Vinci,F,29.0,164.0,58.0,Italy-1,ITA,2012,London,Tennis,Tennis Mixed Doubles,,summer
+126721,Roberta Vinci,F,29.0,164.0,58.0,Italy-1,ITA,2012,London,Tennis,Tennis Women's Doubles,,summer
+127090,Stephanie Vogt,F,22.0,165.0,63.0,Liechtenstein,LIE,2012,London,Tennis,Tennis Women's Singles,,summer
+127545,Galina Olegovna Voskoboyeva,F,27.0,184.0,70.0,Kazakhstan,KAZ,2012,London,Tennis,Tennis Women's Singles,,summer
+127545,Galina Olegovna Voskoboyeva,F,27.0,184.0,70.0,Kazakhstan,KAZ,2012,London,Tennis,Tennis Women's Doubles,,summer
+128967,Heather Miriam Watson,F,20.0,168.0,64.0,Great Britain,GBR,2012,London,Tennis,Tennis Women's Singles,,summer
+128967,Heather Miriam Watson,F,20.0,168.0,64.0,Great Britain-2,GBR,2012,London,Tennis,Tennis Women's Doubles,,summer
+130157,Yanina Wickmayer,F,22.0,182.0,68.0,Belgium,BEL,2012,London,Tennis,Tennis Women's Singles,,summer
+130667,Serena Jamika Williams,F,30.0,175.0,70.0,United States,USA,2012,London,Tennis,Tennis Women's Singles,Gold,summer
+130667,Serena Jamika Williams,F,30.0,175.0,70.0,United States-1,USA,2012,London,Tennis,Tennis Women's Doubles,Gold,summer
+130696,Venus Ebony Starr Williams,F,32.0,185.0,75.0,United States,USA,2012,London,Tennis,Tennis Women's Singles,,summer
+130696,Venus Ebony Starr Williams,F,32.0,185.0,75.0,United States-1,USA,2012,London,Tennis,Tennis Women's Doubles,Gold,summer
+131652,Caroline Wozniacki,F,22.0,179.0,58.0,Denmark,DEN,2012,London,Tennis,Tennis Women's Singles,,summer
+131653,Aleksandra Wozniak,F,24.0,175.0,63.0,Canada,CAN,2012,London,Tennis,Tennis Women's Singles,,summer
+131653,Aleksandra Wozniak,F,24.0,175.0,63.0,Canada,CAN,2012,London,Tennis,Tennis Women's Doubles,,summer
+134544,Zhang Shuai,F,23.0,177.0,66.0,China-2,CHN,2012,London,Tennis,Tennis Women's Doubles,,summer
+134731,Zheng Jie,F,29.0,164.0,57.0,China,CHN,2012,London,Tennis,Tennis Women's Singles,,summer
+134731,Zheng Jie,F,29.0,164.0,57.0,China-1,CHN,2012,London,Tennis,Tennis Women's Doubles,,summer
+135508,Vera Igorevna Zvonaryova,F,27.0,172.0,59.0,Russia,RUS,2012,London,Tennis,Tennis Women's Singles,,summer
+6482,Tmea Babos,F,23.0,179.0,68.0,Hungary,HUN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+6482,Tmea Babos,F,23.0,179.0,68.0,Hungary,HUN,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+6632,Timea Bacsinszky,F,27.0,170.0,62.0,Switzerland,SUI,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+6632,Timea Bacsinszky,F,27.0,170.0,62.0,Switzerland,SUI,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,Silver,summer
+9161,Annika Beck,F,22.0,170.0,59.0,Germany,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+9389,Irina Camelia Begu,F,25.0,181.0,67.0,Romania,ROU,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+9389,Irina Camelia Begu,F,25.0,181.0,67.0,Romania,ROU,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,,summer
+9389,Irina Camelia Begu,F,25.0,181.0,67.0,Romania-1,ROU,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+10828,Kiki Bertens,F,24.0,182.0,69.0,Netherlands,NED,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+10828,Kiki Bertens,F,24.0,182.0,69.0,Netherlands,NED,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,,summer
+13924,Eugenie Bouchard,F,22.0,178.0,58.0,Canada,CAN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+13924,Eugenie Bouchard,F,22.0,178.0,58.0,Canada,CAN,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+16997,ala Bykakay,F,26.0,172.0,58.0,Turkey,TUR,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+19343,Vernica Cepede Royg,F,24.0,163.0,66.0,Paraguay,PAR,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+19675,Chan Hao-Ching,F,22.0,175.0,60.0,Chinese Taipei,TPE,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+19711,Chan Yung-Jan,F,26.0,170.0,60.0,Chinese Taipei,TPE,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+23110,Aliz Cornet,F,26.0,173.0,60.0,France,FRA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+24771,"Gabriela ""Gaby"" Dabrowski",F,24.0,175.0,84.0,Canada,CAN,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+29123,Misaki Doi,F,25.0,159.0,55.0,Japan,JPN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+29123,Misaki Doi,F,25.0,159.0,55.0,Japan,JPN,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+30773,Mariana Duque Mario,F,26.0,169.0,61.0,Colombia,COL,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+33052,Sara Errani,F,29.0,164.0,58.0,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+33052,Sara Errani,F,29.0,164.0,58.0,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+35852,Kirsten Flipkens,F,30.0,165.0,55.0,Belgium,BEL,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+35852,Kirsten Flipkens,F,30.0,165.0,55.0,Belgium,BEL,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+38530,Caroline Garcia,F,22.0,177.0,61.0,France,FRA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+38530,Caroline Garcia,F,22.0,177.0,61.0,France-1,FRA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,,summer
+38530,Caroline Garcia,F,22.0,177.0,61.0,France,FRA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+39166,Daria Gavrilova,F,22.0,166.0,61.0,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+39166,Daria Gavrilova,F,22.0,166.0,61.0,Australia-1,AUS,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+41376,Paula Cristina de Arajo Gonalves,F,25.0,173.0,68.0,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+43112,Anna-Lena Grnefeld,F,31.0,180.0,78.0,Germany-1,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+47860,Polona Hercog,F,25.0,183.0,71.0,Slovenia,SLO,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+48400,Nao Hibino,F,21.0,163.0,57.0,Japan,JPN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+48700,Martina Hingis (-Hutin),F,35.0,170.0,59.0,Switzerland,SUI,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,Silver,summer
+48902,Andrea Hlavkov,F,29.0,175.0,60.0,Czech Republic-2,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+50405,Eri Hozumi,F,22.0,168.0,60.0,Japan,JPN,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+50439,Lucie Hradeck,F,31.0,177.0,72.0,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+50439,Lucie Hradeck,F,31.0,177.0,72.0,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,Bronze,summer
+50439,Lucie Hradeck,F,31.0,177.0,72.0,Czech Republic-2,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+52882,Ana Ivanovi (-Schweinsteiger),F,28.0,184.0,69.0,Serbia,SRB,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+53045,Ons Jabeur,F,21.0,167.0,66.0,Tunisia,TUN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+53666,Rka Luca Jani,F,25.0,161.0,57.0,Hungary,HUN,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+53701,Jelena Jankovi,F,31.0,177.0,59.0,Serbia,SRB,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+53752,Klaudia Anna Jans-Ignacik,F,31.0,173.0,64.0,Poland,POL,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+57241,Paula Kania,F,23.0,168.0,63.0,Poland,POL,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+57816,Darya Sergeyevna Kasatkina,F,19.0,170.0,62.0,Russia,RUS,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+57816,Darya Sergeyevna Kasatkina,F,19.0,170.0,62.0,Russia-1,RUS,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+58786,Angelique Kerber,F,28.0,173.0,68.0,Germany,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,Silver,summer
+58786,Angelique Kerber,F,28.0,173.0,68.0,Germany-2,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+58994,Madison Keys,F,21.0,178.0,68.0,United States,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+59552,Liudmyla Viktorivna Kichenok,F,24.0,176.0,65.0,Ukraine-2,UKR,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+59553,Nadiya Viktorivna Kichenok,F,24.0,172.0,65.0,Ukraine-2,UKR,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+61440,Karin Knapp,F,29.0,180.0,72.0,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+62485,Ana Konjuh,F,18.0,174.0,65.0,Croatia,CRO,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+62572,Johanna Konta,F,25.0,183.0,70.0,Great Britain,GBR,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+62572,Johanna Konta,F,25.0,183.0,70.0,Great Britain-2,GBR,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,,summer
+62572,Johanna Konta,F,25.0,183.0,70.0,Great Britain,GBR,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+63486,Danka Kovini,F,21.0,169.0,67.0,Montenegro,MNE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+64379,Aleksandra Kruni,F,23.0,167.0,53.0,Serbia,SRB,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+64379,Aleksandra Kruni,F,23.0,167.0,53.0,Serbia,SRB,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+65413,Svetlana Aleksandrovna Kuznetsova,F,31.0,174.0,73.0,Russia,RUS,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+65413,Svetlana Aleksandrovna Kuznetsova,F,31.0,174.0,73.0,Russia-1,RUS,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+65461,Petra Kvitov,F,26.0,183.0,70.0,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,Bronze,summer
+66891,Johanna Larsson,F,27.0,174.0,66.0,Sweden,SWE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+70299,Magda Linette,F,24.0,171.0,59.0,Poland,POL,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+73822,Yekaterina Valeryevna Makarova,F,28.0,176.0,65.0,Russia,RUS,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+73822,Yekaterina Valeryevna Makarova,F,28.0,176.0,65.0,Russia-2,RUS,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,Gold,summer
+76644,Bethanie Lynn Mattek-Sands,F,31.0,168.0,66.0,United States-2,USA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,Gold,summer
+76644,Bethanie Lynn Mattek-Sands,F,31.0,168.0,66.0,United States-2,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+78055,"Ana Isabel ""Anabel"" Medina Garrigues",F,34.0,169.0,59.0,Spain-2,ESP,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+80297,Sania Mirza,F,29.0,173.0,57.0,India,IND,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,,summer
+80297,Sania Mirza,F,29.0,173.0,57.0,India,IND,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+80523,Cristina-Andreea Mitu,F,24.0,175.0,60.0,Romania,ROU,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+80523,Cristina-Andreea Mitu,F,24.0,175.0,60.0,Romania-2,ROU,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+80677,Kristina Mladenovic,F,23.0,184.0,60.0,France,FRA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+80677,Kristina Mladenovic,F,23.0,184.0,60.0,France-2,FRA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,,summer
+80677,Kristina Mladenovic,F,23.0,184.0,60.0,France,FRA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+82895,Garbie Muguruza Blanco,F,22.0,182.0,73.0,Spain,ESP,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+82895,Garbie Muguruza Blanco,F,22.0,182.0,73.0,Spain-1,ESP,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+85904,Monica Niculescu,F,28.0,168.0,63.0,Romania,ROU,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+85904,Monica Niculescu,F,28.0,168.0,63.0,Romania-1,ROU,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+88598,Ioana Raluca Olaru,F,27.0,173.0,60.0,Romania-2,ROU,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+89823,Jeena Ostapenko,F,19.0,177.0,68.0,Latvia,LAT,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+91758,Arantxa Parra Santonja,F,33.0,176.0,61.0,Spain-2,ESP,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+92353,Anastasiya Sergeyevna Pavlyuchenkova,F,25.0,177.0,72.0,Russia,RUS,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+93011,Peng Shuai,F,30.0,173.0,61.0,China,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+93011,Peng Shuai,F,30.0,173.0,61.0,China-1,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+93217,Teliana Santos Pereira,F,28.0,167.0,62.0,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+93217,Teliana Santos Pereira,F,28.0,167.0,62.0,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,,summer
+93217,Teliana Santos Pereira,F,28.0,167.0,62.0,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+93987,Andrea Petkovic,F,28.0,180.0,69.0,Germany,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+93987,Andrea Petkovic,F,28.0,180.0,69.0,Germany-2,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+95162,Tsvetana Kirilova Pironkova,F,28.0,180.0,66.0,Bulgaria,BUL,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+97449,Monica Puig Marchn,F,22.0,170.0,64.0,Puerto Rico,PUR,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,Gold,summer
+98237,Agnieszka Roma Radwaska,F,27.0,172.0,56.0,Poland,POL,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+98237,Agnieszka Roma Radwaska,F,27.0,172.0,56.0,Poland,POL,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,,summer
+101649,Anastasia Rodionova,F,34.0,167.0,59.0,Australia-2,AUS,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+101650,Arina Rodionova,F,26.0,168.0,60.0,Australia-2,AUS,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+104216,Lucie afov,F,29.0,177.0,65.0,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+104216,Lucie afov,F,29.0,177.0,65.0,Czech Republic-1,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,Bronze,summer
+106201,Olha Mykolavna Savchuk,F,28.0,177.0,68.0,Ukraine-1,UKR,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+107168,Anna Karolna Schmiedlov,F,21.0,176.0,63.0,Slovakia,SVK,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+110107,Yaroslava Vyacheslavovna Shvedova,F,28.0,180.0,68.0,Kazakhstan,KAZ,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+110107,Yaroslava Vyacheslavovna Shvedova,F,28.0,180.0,68.0,Kazakhstan,KAZ,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+110270,Laura Natalie Siegemund,F,28.0,168.0,62.0,Germany,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+110270,Laura Natalie Siegemund,F,28.0,168.0,62.0,Germany-1,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+114991,Sloane Stephens,F,23.0,173.0,65.0,United States,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+115532,Samantha Jane Stosur,F,32.0,175.0,68.0,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+115532,Samantha Jane Stosur,F,32.0,175.0,68.0,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,,summer
+115532,Samantha Jane Stosur,F,32.0,175.0,68.0,Australia-1,AUS,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+115895,Barbora Strcov (-Zhlavov),F,30.0,164.0,60.0,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+115895,Barbora Strcov (-Zhlavov),F,30.0,164.0,60.0,Czech Republic-1,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,Bronze,summer
+116082,Carla Surez Navarro,F,27.0,162.0,62.0,Spain,ESP,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+116082,Carla Surez Navarro,F,27.0,162.0,62.0,Spain-1,ESP,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,,summer
+116082,Carla Surez Navarro,F,27.0,162.0,62.0,Spain-1,ESP,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+117010,Elina Mykhailivna Svitolina,F,21.0,174.0,60.0,Ukraine,UKR,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+117010,Elina Mykhailivna Svitolina,F,21.0,174.0,60.0,Ukraine-1,UKR,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+119864,Prarthana Gulabrao Thombare,F,22.0,165.0,58.0,India,IND,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+125106,"Colleen Mullarkey (Colleen Hutchins-) ""CoCo"" Vandeweghe (-Mullarkey)",F,24.0,185.0,70.0,United States-2,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+126199,Yelena Sergeyevna Vesnina,F,30.0,180.0,60.0,Russia-2,RUS,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,Gold,summer
+126721,Roberta Vinci,F,33.0,164.0,58.0,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+126721,Roberta Vinci,F,33.0,164.0,58.0,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,,summer
+126721,Roberta Vinci,F,33.0,164.0,58.0,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+127090,Stephanie Vogt,F,26.0,165.0,63.0,Liechtenstein,LIE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+127545,Galina Olegovna Voskoboyeva,F,31.0,184.0,70.0,Kazakhstan,KAZ,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+128545,Wang Qiang,F,24.0,172.0,60.0,China,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+128967,Heather Miriam Watson,F,24.0,168.0,64.0,Great Britain,GBR,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+128967,Heather Miriam Watson,F,24.0,168.0,64.0,Great Britain-1,GBR,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,,summer
+128967,Heather Miriam Watson,F,24.0,168.0,64.0,Great Britain,GBR,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+130157,Yanina Wickmayer,F,26.0,182.0,68.0,Belgium,BEL,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+130157,Yanina Wickmayer,F,26.0,182.0,68.0,Belgium,BEL,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+130667,Serena Jamika Williams,F,34.0,175.0,70.0,United States,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+130667,Serena Jamika Williams,F,34.0,175.0,70.0,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+130696,Venus Ebony Starr Williams,F,36.0,185.0,75.0,United States,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+130696,Venus Ebony Starr Williams,F,36.0,185.0,75.0,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,Silver,summer
+130696,Venus Ebony Starr Williams,F,36.0,185.0,75.0,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+131652,Caroline Wozniacki,F,26.0,179.0,58.0,Denmark,DEN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+132098,Xu Yifan,F,27.0,165.0,60.0,China-2,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+134544,Zhang Shuai,F,27.0,177.0,66.0,China,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+134544,Zhang Shuai,F,27.0,177.0,66.0,China-1,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
+134739,Zheng Saisai,F,22.0,170.0,62.0,China,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,,summer
+134739,Zheng Saisai,F,22.0,170.0,62.0,China-2,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,,summer
